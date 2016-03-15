@@ -1,0 +1,18 @@
+CSS Positioning Exercise
+
+
+This project folder contains a sample web page for the sci-fi movie "The Matrix".
+Your task is to style this page in a logical way, using the-matrix.png as reference.
+Use the external stylesheet I have provided for your project.  Also make sure to
+use each CSS positioning scheme at least once (relative, fixed, absolute, and float).
+
+
+You should be able to get almost all the information you need from 
+the-matrix.png but below are a few additional hints:
+
+1. Don't forget to Link your html page to the external stylesheet
+2. Make sure to specify a font for the page (not just the default font)
+3. The nav bar should NOT scroll with the page
+4. The nav bar should appear "above" any other content
+5. You will need to make sure the first paragraph after the quote/image
+   DOES NOT wrap around the quote/image
